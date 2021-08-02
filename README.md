@@ -1,7 +1,7 @@
-# Nathan Louie — @nathan-louie
+## Hey I'm Nathan Louie — @nathan-louie
 
-Hey, I'm Nathan, just a student working on some projects I find fun!
+I'm a high school student trying to learn more about computer science, and I'm passionate about solving intricate problems!
 
-Currently learning about web development.
-
-Ask me about anything!
+- 🙌 Avid gamer, musician and chess enthusiast
+- 🌱 Currently learning about web development
+- 📫 Connect with me at nathanhlouie@gmail.com and visit my website at https://nathan.louie.ca
