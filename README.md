@@ -5,21 +5,27 @@
 </div>
 
 <samp>
+  <h3 align="center">
+    <br>
+    「 I'm currently a SWE at the TD Innovation Lab, and was previously a SWE at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 🌱 」
+    <br>
+  </h3>
+  <div align="center">
+    <br>
+    <a href="https://github.com/nathan-louie/nathan-louie.github.io" target="_blank" rel="nofollow noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io">
+    </a>
+    <a href="https://github.com/nathan-louie/macOS-config" target="_blank" rel="nofollow noopener noreferrer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config">
+    </a>
+    <br>
+  </div>
   <p align="center">
     <br>
-    「 I'm currently a SWE at the TD Innovation Lab, and was previously a SWE at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 」
+    "I live life every day hoping that I'm a slightly kinder person than I was the day before"
     <br>
   </p>
   <p align="center">
     ════ ⋆★⋆ ════
-    <br>
-    <br>
   </p>
-  <h3>
-    🌱 More about me:
-    <br>
-  </h3>
 </samp>
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io)](https://github.com/nathan-louie/nathan-louie.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config)](https://github.com/nathan-louie/macOS-config)
