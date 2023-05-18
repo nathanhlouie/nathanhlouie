@@ -5,11 +5,11 @@
 </div>
 
 <samp>
-  <h3 align="center">
+  <p align="center">
     <br>
     「 I'm currently a SWE at the TD Innovation Lab, and was previously a SWE at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 🌱 」
     <br>
-  </h3>
+  </p>
   <div align="center">
     <br>
     <a href="https://github.com/nathan-louie/nathan-louie.github.io" target="_blank" rel="nofollow noopener noreferrer">
