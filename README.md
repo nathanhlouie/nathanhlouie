@@ -21,4 +21,5 @@
   </h3>
 </samp>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io) ![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io)](https://github.com/nathan-louie/nathan-louie.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config)](https://github.com/nathan-louie/macOS-config)
