@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://nathan.louie.ca/" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" alt="my banner"></a>
-</p>
-
-[<img align="center" src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" />](https://nathan.louie.ca)
-[<img align="center" src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" />](https://nathan.louie.ca)
+[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" />](https://nathan.louie.ca/)
+[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" />](https://nathan.louie.ca/)
 
 <samp>
   <p align="center">
@@ -12,16 +8,16 @@
     <br>
   </p>
 </samp>
-<div align="center">
+<p align="center">
   <br>
-  <a href="https://github.com/nathan-louie/nathan-louie.github.io" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://github.com/nathan-louie/nathan-louie.github.io" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io&theme=transparent">
   </a>
-  <a href="https://github.com/nathan-louie/macOS-config" target="_blank" rel="nofollow noopener noreferrer">
+  <a href="https://github.com/nathan-louie/macOS-config" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config&theme=transparent">
   </a>
   <br>
-</div>
+</p>
 <samp>
   <p align="center">
     <br>
