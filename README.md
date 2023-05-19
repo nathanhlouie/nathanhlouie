@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
+
 [<img align="center" src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" />](https://nathan.louie.ca)
 [<img align="center" src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" />](https://nathan.louie.ca)
 
