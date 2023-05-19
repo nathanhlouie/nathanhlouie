@@ -1,5 +1,5 @@
-[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" />](https://nathan.louie.ca/)
-[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" />](https://nathan.louie.ca/)
+[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" />](https://nathan.louie.ca)
+[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" />](https://nathan.louie.ca)
 
 <samp>
   <p align="center">
@@ -25,6 +25,6 @@
     <br>
   </p>
   <p align="center">
-    ════ ⋆★⋆ ════
+    ════ ⋆<a href="https://nathan.louie.ca" rel="noopener noreferrer">★</a>⋆ ════
   </p>
 </samp>
