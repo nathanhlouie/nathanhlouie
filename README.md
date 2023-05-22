@@ -4,7 +4,7 @@
 <samp>
   <p align="center">
     <br>
-    「 I'm currently a SWE at the TD Innovation Lab, and was previously a SWE at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 🌱 」
+    「 I'm currently a SWE Intern at the TD Innovation Lab, and was previously a SWE Intern at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 🌱 」
     <br>
   </p>
 </samp>
