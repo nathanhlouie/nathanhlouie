@@ -13,8 +13,8 @@
   <a href="https://github.com/nathan-louie/nathan-louie.github.io" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io&theme=transparent" alt="nathan-louie.github.io repo">
   </a>
-  <a href="https://github.com/nathan-louie/macOS-config" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=macOS-config&theme=transparent" alt="macOS-config repo">
+  <a href="https://github.com/nathan-louie/dotfiles" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=dotfiles&theme=transparent" alt="dotfiles repo">
   </a>
   <br>
 </p>
