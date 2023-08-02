@@ -1,5 +1,5 @@
-[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" alt="Github Banner Light"/>](https://nathan.louie.ca)
-[<img src="https://github.com/nathan-louie/nathan-louie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" alt="Github Banner Dark" />](https://nathan.louie.ca)
+[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" alt="Github Banner Light"/>](https://nathan.louie.ca)
+[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" alt="Github Banner Dark" />](https://nathan.louie.ca)
 
 <samp>
   <p align="center">
@@ -10,11 +10,11 @@
 </samp>
 <p align="center">
   <br>
-  <a href="https://github.com/nathan-louie/nathan-louie.github.io" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=nathan-louie.github.io&theme=transparent" alt="nathan-louie.github.io repo">
+  <a href="https://github.com/nathanhlouie/nathanhlouie.github.io" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanhlouie&repo=nathanhlouie.github.io&theme=transparent" alt="nathanhlouie.github.io repo">
   </a>
-  <a href="https://github.com/nathan-louie/dotfiles" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathan-louie&repo=dotfiles&theme=transparent" alt="dotfiles repo">
+  <a href="https://github.com/nathanhlouie/dotfiles" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanhlouie&repo=dotfiles&theme=transparent" alt="dotfiles repo">
   </a>
   <br>
 </p>
