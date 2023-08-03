@@ -21,7 +21,9 @@
 <samp>
   <p align="center">
     <br>
-    "I live life every day hoping that I'm a slightly kinder person than I was the day before."
+      <i>
+        "Life is here for us to become kinder."
+      </i>
     <br>
   </p>
   <p align="center">
