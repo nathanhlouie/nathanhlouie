@@ -4,7 +4,7 @@
 <samp>
   <p align="center">
     <br>
-    「 Last summer I was a SWE intern at the TD Innovation Lab, and previously worked as a SWE intern at The Bike Brigade! I love working on things that help people. Currently exploring Vim and other cool things! 🌱 」
+    「 Last summer I worked as a SWE intern at the TD Innovation Lab, and previously worked as a SWE intern at The Bike Brigade! I love working on things that help people. Currently exploring Vim and other cool things! 🌱 」
     <br>
   </p>
 </samp>
