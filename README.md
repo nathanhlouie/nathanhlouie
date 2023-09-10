@@ -4,15 +4,12 @@
 <samp>
   <p align="center">
     <br>
-    「 I'm currently a SWE Intern at the TD Innovation Lab, and was previously a SWE Intern at the Bike Brigade! I love working on things that help people. Currently exploring Neovim and other cool things! 🌱 」
+    「 Last summer I was a SWE Intern at the TD Innovation Lab, and previously worked as a SWE at The Bike Brigade! I love working on things that help people. Currently exploring Vim and other cool things! 🌱 」
     <br>
   </p>
 </samp>
 <p align="center">
   <br>
-  <a href="https://github.com/nathanhlouie/nathanhlouie.github.io" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanhlouie&repo=nathanhlouie.github.io&theme=transparent" alt="nathanhlouie.github.io repo">
-  </a>
   <a href="https://github.com/nathanhlouie/dotfiles" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanhlouie&repo=dotfiles&theme=transparent" alt="dotfiles repo">
   </a>
