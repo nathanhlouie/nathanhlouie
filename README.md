@@ -1,10 +1,10 @@
-[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/fd7a4d41-1cf0-4091-855c-d20e2f5a9cbe#gh-light-mode-only" alt="Github Banner Light"/>](https://nathan.louie.ca)
-[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/c755e557-9477-45d0-8ea8-e26db54c1e4b#gh-dark-mode-only" alt="Github Banner Dark" />](https://nathan.louie.ca)
+[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/057b52ff-e80e-474e-bc02-c9be48bc62a6#gh-light-mode-only" alt="Github Banner Light"/>](https://nathan.louie.ca)
+[<img src="https://github.com/nathanhlouie/nathanhlouie/assets/53024905/a1b99362-d779-4b16-9414-4e40bb6e92e9#gh-dark-mode-only" alt="Github Banner Dark" />](https://nathan.louie.ca)
 
 <samp>
   <p align="center">
     <br>
-    「 Last summer I worked as a SWE intern at the TD Innovation Lab, and previously worked as a SWE intern at The Bike Brigade! I love working on things that help people. Currently exploring Vim and other cool things! 🌱 」
+    「 Previously, I've developed cool things as a SWE intern that empower people at TD Innovation Lab and at The Bike Brigade. I love working on things that help people. Currently exploring (N)vim and other cool things! 🌱 」
     <br>
   </p>
 </samp>
