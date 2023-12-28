@@ -11,7 +11,6 @@
 </samp>
 <samp>
   <p align="center">
-    <br>
       <i>
         "Everything is understandable."
       </i>
