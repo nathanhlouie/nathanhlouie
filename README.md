@@ -6,7 +6,7 @@
 <samp>
   <p align="center">
     <br>
-    「 Currently an SWE intern at BlackBerry. Previously at TD Innovation Lab and The Bike Brigade. 」
+    「 Currently a SWE intern at BlackBerry. Previously at TD Innovation Lab and The Bike Brigade. 」
   </p>
 </samp>
 <samp>
