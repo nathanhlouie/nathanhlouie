@@ -6,13 +6,13 @@
 <samp>
   <p align="center">
     <br>
-    「 Previously a SWE intern at BlackBerry, TD Innovation Lab, and The Bike Brigade. 」
+    「 Previously a SWE intern at PointClickCare, BlackBerry, TD Innovation Lab, and The Bike Brigade. 」
   </p>
 </samp>
 <samp>
   <p align="center">
       <i>
-        "Everything is understandable."
+        "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
       </i>
     <br>
   </p>
