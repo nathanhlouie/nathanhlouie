@@ -1,15 +1,13 @@
-<h3 align="center">Hello! I'm <b><a href="https://nathan.louie.ca" rel="nofollow noopener noreferrer">Nathan Louie</a></b></h3>
+### hello!
+
+There are a bunch of projects here that I made and will *maybe* get around to working on again.
+
+https://nathan.louie.ca/
+
 <samp>
   <p align="center">
-    <br>
-    「 Previously a SWE intern @ PointClickCare, BlackBerry, TD Innovation Lab, and The Bike Brigade. 」
-  </p>
-</samp>
-<samp>
-  <p align="center">
-      <i>
-        "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
-      </i>
-    <br>
+    <i>
+      "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
+    </i>
   </p>
 </samp>
