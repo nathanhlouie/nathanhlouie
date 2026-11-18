@@ -1,5 +1,5 @@
-### hello!
+### hey!
 
-I have a bunch of projects here that I'll *someday* get around to working on again.
+politely talking to computers...
 
 https://nathan.louie.ca/
