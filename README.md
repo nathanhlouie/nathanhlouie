@@ -1,5 +1,5 @@
 ### hello!
 
-politely talking to computers and filtering out the noise
+politely talking to computers and sifting through the noise
 
 https://nathan.louie.ca/
